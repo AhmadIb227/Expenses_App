@@ -1,4 +1,5 @@
 # expenses
+![image](https://github.com/AhmadIb227/Expenses_App/assets/127244426/d357c0eb-8183-433b-ab41-07f11b564a8f)
 
 A new Flutter project.
 
